@@ -4,4 +4,8 @@
 - 📝 I regularly write articles on https://hebraralici.medium.com/
 - 📫 How to reach me ebraralici98@gmail.com
 
+### 📩 Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
 
