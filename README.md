@@ -17,8 +17,8 @@
 
 
 [gmail]: mailto:ebraralici98@gmail.com
-[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
-[medium]: https://demiribrahimtalha.medium.com/
+[linkedin]: https://www.linkedin.com/in/hebraralici/
+[medium]: https://hebraralici.medium.com/
 [kaggle]: https://www.kaggle.com/haticeebraralc
 <br />
 
