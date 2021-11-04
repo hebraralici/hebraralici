@@ -4,6 +4,12 @@
 - 📝 I regularly write articles on https://hebraralici.medium.com/
 
 
+## 📉 My Stats
+![](https://github-readme-stats.vercel.app/api?username=hebraralici&show_icons=true&count_private=true)
+
+## 🔼 My Top Languages 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hebraralici)
+
 ### 📩 Connect with me:
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
