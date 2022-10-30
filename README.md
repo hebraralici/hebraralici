@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ebrar
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science,Machine Learning
+- 👀 I’m interested in Data Science and Machine Learing
+- 🌱 I’m currently learning Software Engineering
 - 📝 I regularly write articles on https://hebraralici.medium.com/
 
 
